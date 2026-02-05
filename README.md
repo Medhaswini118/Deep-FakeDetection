@@ -176,7 +176,12 @@ Open browser:
 ## 📸 Screenshots
 
 ### Example Tweet
+
+![Example Tweet](images/Example_Tweet.png)
+
 ### Output Screen
+
+![Output Screen](images/Output.png)
 
 
 
